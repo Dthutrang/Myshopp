@@ -1,11 +1,11 @@
-# CT484-01
+# CT484-04
 
 Lab of the Mobile Application Development course.
 
 ## Student
 
-ID: B1910013  
-Name: Nguyen Thanh Trung
+ID: B1910005  
+Name: Dao Thu Trang
 
 ## Setup
 
